@@ -1,0 +1,14 @@
+label{
+    font-family: cursive;
+}
+
+#decreaseButton{
+    font-family: 'Arial Rounded MT';
+}
+
+#countLabel{
+    display:block;
+    text-align: center;
+    font-size: 50;
+    font-family: cursive;
+}
